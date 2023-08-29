@@ -34,17 +34,3 @@
 
 
 
-
-<table>
-    <thead>
-        <th ></th>
-        <th ></th>
-    </thead>
-
-       <tbody>
-            <tr>
-                <td> </td>
-                <td></td>
-            </tr>
-        </tbody>
-</table>
