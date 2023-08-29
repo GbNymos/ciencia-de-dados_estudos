@@ -4,14 +4,47 @@
 
 <table>
     <thead>
-        <th >PROJETOS:</th>
-        <th >DESCRICAO:</th>
+        <th scope="col">PROJETOS:</th>
+        <th scope="col"> DESCRICAO:</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Projeto ETL python</td>
+            <td >Projeto(EXTRACT,TRANSFORM,LOAD),extrai dados de uma api,gerar mensagens personalizadas e retorna os dados junto com as mensagens personalizadas para a api.</td>
+        </tr>
+     </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
+    <thead>
+        <th ></th>
+        <th ></th>
     </thead>
 
        <tbody>
             <tr>
-                <td> Projeto ETL python</td>
-                <td>projeto etl,extrair dados de uma api, e gerar mensagens personalizadas e retorna os dados junto com as mensagens personalizadas para a api.</td>
+                <td> </td>
+                <td></td>
             </tr>
         </tbody>
 </table>
