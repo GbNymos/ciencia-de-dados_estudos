@@ -3,10 +3,15 @@
 
 
 <table>
+    <thead>
+        <th >PROJETOS:</th>
+        <th >DESCRICAO:</th>
+    </thead>
+
        <tbody>
             <tr>
-                <td> projeto ETL python</td>
-                <td>projeto etl,extrair dados de uma api, e gerar mensagens personalizadas e devolver esses dados para a api.</td>
+                <td> Projeto ETL python</td>
+                <td>projeto etl,extrair dados de uma api, e gerar mensagens personalizadas e retorna os dados junto com as mensagens personalizadas para a api.</td>
             </tr>
         </tbody>
 </table>
